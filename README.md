@@ -34,6 +34,7 @@ Customer or admin uses his or her username or password to login to the system.
 Registration
 
 A new customer creates a new account by adding his or her personal information.
+
 <img width="432" alt="image" src="https://user-images.githubusercontent.com/68152737/171255589-21e19a88-57ad-4668-9a8f-3ea602017e22.png">
 
   
@@ -41,11 +42,13 @@ A new customer creates a new account by adding his or her personal information.
 Search (Customer)
 
 Customer can search for cars based on his or her preferences such as number of seats, car’s color, model, and mode (manual or automatic).
+
 <img width="432" alt="image" src="https://user-images.githubusercontent.com/68152737/171255636-ecd0b7fd-89af-472d-b010-45a686959d1c.png"> 
  
 Reservation
 
 Customer can reserve an available car based on his or her requirements specified. A customer chooses the pickup, return dates and pickup location.
+
  <img width="432" alt="image" src="https://user-images.githubusercontent.com/68152737/171255681-ec37248c-8412-4d70-a71b-c31a9a4e4296.png">
  
  
